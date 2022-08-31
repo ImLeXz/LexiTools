@@ -2,7 +2,7 @@
 Collection of tools, mainly created for use in VRChat avatar creation
 
 ## How To Use
-After importing the scripts into your unity project, they will appear at the top of the editor window, under the tab "Lexi"
+Download whatever you need and then just drag and drop anywhere into your unity project to import. After importing the scripts into your unity project, they will appear at the top of the editor window, under the tab "Lexi"
 
 ## Generate Material Anims
 Automatically creates an animation that animates a given shader property for a specified shader on every mesh and every material under the root object
